@@ -1,0 +1,9 @@
+{
+  "name": "lru_cache_js",
+  "description": "Simple implementation of LRU in JS",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  },
+  "author": "Sarthak Saini",
+}
